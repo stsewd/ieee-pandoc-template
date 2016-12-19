@@ -13,7 +13,7 @@ FLAGS_PDF = --template=template.latex
 all: pdf
 
 pdf:
-	pandoc -o $(OUTPUT)/report.pdf $(FLAGS) $(FLAGS_PDF) $(FILES)
+	pandoc -o $(OUTPUT)/paper.pdf $(FLAGS) $(FLAGS_PDF) $(FILES)
 
 clean:
 	rm build/*
