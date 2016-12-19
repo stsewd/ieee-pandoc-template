@@ -1,0 +1,20 @@
+---
+title: 'Paper Title'
+author:
+  - name: Santos Gallegos
+    affilation: Universidad de Cuenca
+    location: Cuenca, Ecuador
+    email: santos_g@email.com
+keywords:
+  - one
+  - two
+  - three
+numbersections: yes
+lang: en
+abstract: |
+  This is the abstract.
+
+  It consists of two paragraphs.
+
+...
+
