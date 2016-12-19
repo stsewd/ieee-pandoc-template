@@ -3,7 +3,7 @@
 ## Requirements
 
 - [Pandoc](http://pandoc.org/)
-- [Texlive](https://www.tug.org/texlive/) (recomended)
+- [Texlive](https://www.tug.org/texlive/) (recommended)
 
 ## Quickly Usage
 
@@ -30,7 +30,7 @@ Here put all the bibliography that is used in the paper.
 
 #### bibliography.csl
 
-This file is for especify to pandoc how to display the cites (ieee format).
+This file is for specify to pandoc how to display the cites (ieee format).
 
 #### template.latex
 
@@ -40,6 +40,11 @@ content of your paper.
 #### makefile
 
 It is used to compile the pdf, usually the default options are fine.
+
+#### build/
+
+On this directory will be final pdf. Make sure to add this to your `.gitignore`
+file if you are using git.
 
 ### Compiling
 
@@ -54,3 +59,4 @@ Run `make` on a terminal and the pdf will be on `build/paper.pdf`.
 
 ### Bibliography manager
 - [Zotero](https://www.zotero.org/) + [Better Bibtext extension](https://github.com/retorquere/zotero-better-bibtex)
+
