@@ -1,0 +1,7 @@
+sudo: enabled
+dist: trusty
+install:
+  - sudo apt-get -qq update
+  - sudo apt-get install -y pandoc pandoc-citeproc texlive-full
+script:
+  - make 
