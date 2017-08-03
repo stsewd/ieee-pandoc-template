@@ -11,6 +11,7 @@ keywords:
   - three
 numbersections: yes
 lang: en
+babel-lang: english
 abstract: |
   This is the abstract.
 
