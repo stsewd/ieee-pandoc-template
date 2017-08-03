@@ -38,9 +38,9 @@ Run `make` on a terminal and the pdf will be on `build/paper.pdf`.
 
 ### Editors
 
-- [Vim](http://vim.org)/[NVim](https://neovim.io/) + [vim-pandoc extension](https://github.com/vim-pandoc/vim-pandoc)
+- [Vim](http://vim.org)/[Neovim](https://neovim.io/) + [vim-pandoc extension](https://github.com/vim-pandoc/vim-pandoc)
 - [Atom](http://atom.io) + [language-pfm extension](https://atom.io/packages/language-pfm) + [autocomplete-bibtex extension](https://atom.io/packages/autocomplete-bibtex)
 
 ### Bibliography manager
-- [Zotero](https://www.zotero.org/) + [Better Bibtext extension](https://github.com/retorquere/zotero-better-bibtex)
 
+- [Zotero](https://www.zotero.org/) + [Better Bibtext extension](https://github.com/retorquere/zotero-better-bibtex)
