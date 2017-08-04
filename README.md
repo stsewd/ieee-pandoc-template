@@ -5,7 +5,7 @@
 ## Requirements
 
 - [Pandoc](http://pandoc.org/)
-- [Texlive](https://www.tug.org/texlive/) (recommended)
+- [Texlive](https://www.tug.org/texlive/)
 
 ### Ubuntu
 
@@ -22,8 +22,11 @@ sudo dnf install pandoc pandoc-citeproc texlive-scheme-full
 
 ## Quickly Usage
 
-Put all your paper content on `paper.md`, change the title and author
-on `metadata.yaml` and run `make`. The pdf will be on `build/paper.pdf`.
+- Clone or download this repo.
+- Put all your paper content in `paper.md`.
+- Change the title and author in `metadata.yaml`.
+- Run `make` in a terminal.
+- The pdf will be on `build/paper.pdf`.
 
 ## Files
 
