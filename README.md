@@ -20,7 +20,7 @@ sudo apt install pandoc pandoc-citeproc texlive-full
 sudo dnf install pandoc pandoc-citeproc texlive-scheme-full
 ```
 
-## Quickly Usage
+## Quick Start Guide
 
 - Clone or download this repo.
 - Put all your paper content in `paper.md`.
