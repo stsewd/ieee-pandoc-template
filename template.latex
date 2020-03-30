@@ -123,6 +123,10 @@ $if(verbatim-in-note)$
 $endif$
 $if(tables)$
 \usepackage{longtable,booktabs}
+\usepackage{supertabular}
+\let\longtable\supertabular
+\let\endlongtable\endsupertabular
+\let\endhead\relax
 % Fix footnotes in tables (requires footnote package)
 \IfFileExists{footnote.sty}{\usepackage{footnote}\makesavenoteenv{long table}}{}
 $endif$
