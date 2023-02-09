@@ -5,6 +5,11 @@ author:
     affiliation: Universidad de Cuenca
     location: Cuenca, Ecuador
     email: santos_g@email.com
+  - name: Second author
+    affiliation: Universidad de Cuenca
+    location: Cuenca, Ecuador
+    email: santos_g2@email.com
+  
 keywords:
   - one
   - two
