@@ -11,7 +11,7 @@
 
 ```sh
 sudo apt update
-sudo apt install pandoc pandoc-citeproc texlive-full
+sudo apt install pandoc pandoc-citeproc texlive-full texlive-publishers
 ```
 
 ### Fedora
